@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.data-container{
+    margin-top: 30px;
+    display: flex;
+ 
+}
+.image-container{
+    margin-left: 20px;
+    width: 40%;
+    
+}
+.image-container img{
+    width: 80%;
+    height: 70vh;
+}
+.Rightdata{
+    display: flex;
+    margin-right: 100px;
+    flex-direction: column;
+}
+ 
